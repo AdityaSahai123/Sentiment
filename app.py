@@ -7,7 +7,7 @@ import data
 
 #t = open('read.txt', encoding='utf-8').read()
 st.title("SENTIMENT ANALYSIS")
-st.image('Sent1.jpg')
+st.image('sent1.jpg')
 st.markdown(""" This is a web app based on “Sentiment Analysis using Machine Learning”, 
  it will categorize the text into various categories like happy, angry, cheated, attracted,
 loved, anxious, etc. and will make two types of graphs i.e. bar and plotted 
