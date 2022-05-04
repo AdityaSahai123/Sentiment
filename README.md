@@ -1,6 +1,6 @@
 # Sentiment
 Just Copy Paste any speech and you will get the sentiment of that speech.
-Language Used: Python
+Language Used: Python ;
 Tools Used: Matplotlib, Streamlit
 Web App link: https://share.streamlit.io/adityasahai123/sentiment/main/app.py
 
